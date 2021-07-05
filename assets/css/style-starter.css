@@ -11012,7 +11012,7 @@ a.text-dark:focus {
 
 :root {
   --theme-color: #e40000;
-  --primary-color: #f9580e;
+  --primary-color: #BE1E23;
   --secondary-color: #222222;
   --font-color: #707070;
   --bg-color: #fff;
@@ -11036,7 +11036,7 @@ a.text-dark:focus {
 
 [data-theme="dark"] {
   --theme-color: #e40000;
-  --primary-color: #f9580e;
+  --primary-color: #BE1E23;
   --secondary-color: #fff;
   --font-color: #b7b7b7;
   --bg-color: #171717;
